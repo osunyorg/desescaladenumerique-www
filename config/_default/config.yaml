@@ -16,3 +16,12 @@ params:
       truncate_description: 0
   breadcrumb:
     position: none
+  share_links:
+    enabled: true
+    email: true
+    facebook: false
+    linkedin: false
+    mastodon: true
+    telegram: false
+    twitter: false
+    whatsapp: false
