@@ -15,4 +15,4 @@ params:
     index:
       truncate_description: 0
   breadcrumb:
-    position: after-hero
+    position: none
