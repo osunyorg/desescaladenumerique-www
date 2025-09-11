@@ -1,6 +1,13 @@
 ---
 title: Menu principal
 items:
+- title: À propos
+  target: "/a-propos/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/a-propos"
+  file: content/fr/pages/a-propos/_index.html
 - title: Propositions
   target: "/propositions/"
   kind: page
@@ -15,11 +22,4 @@ items:
   children: []
   path: "/pages/sources"
   file: content/fr/pages/sources/_index.html
-- title: À propos
-  target: "/a-propos/"
-  kind: page
-  new_tab: false
-  children: []
-  path: "/pages/a-propos"
-  file: content/fr/pages/a-propos/_index.html
 
