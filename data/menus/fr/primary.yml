@@ -1,4 +1,11 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Propositions
+  target: "/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/projects"
+  file: content/fr/projects/_index.html
 
