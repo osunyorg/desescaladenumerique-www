@@ -14,6 +14,10 @@
     .year
         display: none
 
+.organization
+    .media
+        img
+            mix-blend-mode: multiply
 .projects--grid
     .project 
         background: $color-beige
@@ -22,3 +26,7 @@
         .project-summary
             margin-top: $spacing-5
             @include small
+        .project-content
+            .project-title
+                a
+                    @include link
