@@ -22,4 +22,11 @@ items:
   children: []
   path: "/pages/sources"
   file: content/fr/pages/sources/_index.html
+- title: Témoignages
+  target: "/temoignages/"
+  kind: page
+  new_tab: false
+  children: []
+  path: "/pages/temoignages"
+  file: content/fr/pages/temoignages/_index.html
 
