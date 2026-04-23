@@ -13,3 +13,116 @@ Cache-Control = "max-age=31536000, no-transform, public"
 for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 [headers.values]
 Cache-Control = "max-age=31536000, no-transform, public"
+
+[[redirects]]
+from = "/2025-07-favoriser-une-ecole-ouverte-et-creative/"
+to = "/propositions/2025-07-favoriser-une-ecole-ouverte-et-creative/"
+
+[[redirects]]
+from = "/techologie/"
+to = "/organisations/techologie/"
+
+[[redirects]]
+from = "/2025-06-bannir-les-ecrans-publicitaires-de-lespace-public/"
+to = "/propositions/2025-06-bannir-les-ecrans-publicitaires-de-lespace-public/"
+
+[[redirects]]
+from = "/propositions/2025-3-garantir-un-service-public-humain/"
+to = "/propositions/2025-03-garantir-un-service-public-humain/"
+
+[[redirects]]
+from = "/2025-10-limiter-lexposition-electromagnetique/"
+to = "/propositions/2025-10-limiter-lexposition-electromagnetique/"
+
+[[redirects]]
+from = "/commown/"
+to = "/organisations/commown/"
+
+[[redirects]]
+from = "/2025-03-garantir-un-service-public-humain/"
+to = "/propositions/2025-03-garantir-un-service-public-humain/"
+
+[[redirects]]
+from = "/propositions/2025-2-assurer-une-gestion-municipale-degafamisee/"
+to = "/propositions/2025-02-assurer-une-gestion-municipale-degafamisee/"
+
+[[redirects]]
+from = "/generation-lumiere/"
+to = "/organisations/generation-lumiere/"
+
+[[redirects]]
+from = "/propositions/2025-9-refuser-linstallation-de-data-centers/"
+to = "/propositions/2025-09-refuser-linstallation-de-data-centers/"
+
+[[redirects]]
+from = "/propositions/2025-4-favoriser-les-emplois-pas-les-ia/"
+to = "/propositions/2025-04-favoriser-les-emplois-pas-les-ia/"
+
+[[redirects]]
+from = "/2025-08-lutter-contre-lairbnbisation-de-lhabitat/"
+to = "/propositions/2025-08-lutter-contre-lairbnbisation-de-lhabitat/"
+
+[[redirects]]
+from = "/propositions/2025-8-lutter-contre-lairbnbisation-de-lhabitat/"
+to = "/propositions/2025-08-lutter-contre-lairbnbisation-de-lhabitat/"
+
+[[redirects]]
+from = "/vers-une-desescalade-numerique-stop-5g-lyon/"
+to = "/organisations/vers-une-desescalade-numerique-stop-5g-lyon/"
+
+[[redirects]]
+from = "/propositions/2025-5-assurer-la-securite-sans-video-surveillance/"
+to = "/propositions/2025-05-assurer-la-securite-sans-video-surveillance/"
+
+[[redirects]]
+from = "/projets/"
+to = "/propositions/"
+
+[[redirects]]
+from = "/technologos/"
+to = "/organisations/technologos/"
+
+[[redirects]]
+from = "/2025-01-securiser-les-services-essentiels-hors-reseau/"
+to = "/propositions/2025-01-securiser-les-services-essentiels-hors-reseau/"
+
+[[redirects]]
+from = "/propositions/2025-6-bannir-les-ecrans-publicitaires-de-lespace-public/"
+to = "/propositions/2025-06-bannir-les-ecrans-publicitaires-de-lespace-public/"
+
+[[redirects]]
+from = "/telecoop/"
+to = "/organisations/telecoop/"
+
+[[redirects]]
+from = "/2025-04-favoriser-les-emplois-pas-les-ia/"
+to = "/propositions/2025-04-favoriser-les-emplois-pas-les-ia/"
+
+[[redirects]]
+from = "/2025-05-assurer-la-securite-sans-video-surveillance/"
+to = "/propositions/2025-05-assurer-la-securite-sans-video-surveillance/"
+
+[[redirects]]
+from = "/2025-02-assurer-une-gestion-municipale-degafamisee/"
+to = "/propositions/2025-02-assurer-une-gestion-municipale-degafamisee/"
+
+[[redirects]]
+from = "/halte-au-controle-numerique/"
+to = "/organisations/halte-au-controle-numerique/"
+
+[[redirects]]
+from = "/propositions/2025-7-favoriser-une-ecole-ouverte-et-creative/"
+to = "/propositions/2025-07-favoriser-une-ecole-ouverte-et-creative/"
+
+[[redirects]]
+from = "/2025-09-refuser-linstallation-de-data-centers/"
+to = "/propositions/2025-09-refuser-linstallation-de-data-centers/"
+
+[[redirects]]
+from = "/propositions/2025-1-securiser-les-services-essentiels-hors-reseau/"
+to = "/propositions/2025-01-securiser-les-services-essentiels-hors-reseau/"
+
+[[redirects]]
+from = "/point-de-mir/"
+to = "/organisations/point-de-mir/"
+
