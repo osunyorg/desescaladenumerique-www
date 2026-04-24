@@ -15,114 +15,114 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/2025-07-favoriser-une-ecole-ouverte-et-creative/"
+from = "/2025-07-favoriser-une-ecole-ouverte-et-creative/index.html"
 to = "/propositions/2025-07-favoriser-une-ecole-ouverte-et-creative/"
 
 [[redirects]]
-from = "/techologie/"
+from = "/techologie/index.html"
 to = "/organisations/techologie/"
 
 [[redirects]]
-from = "/2025-06-bannir-les-ecrans-publicitaires-de-lespace-public/"
+from = "/2025-06-bannir-les-ecrans-publicitaires-de-lespace-public/index.html"
 to = "/propositions/2025-06-bannir-les-ecrans-publicitaires-de-lespace-public/"
 
 [[redirects]]
-from = "/propositions/2025-3-garantir-un-service-public-humain/"
+from = "/propositions/2025-3-garantir-un-service-public-humain/index.html"
 to = "/propositions/2025-03-garantir-un-service-public-humain/"
 
 [[redirects]]
-from = "/2025-10-limiter-lexposition-electromagnetique/"
+from = "/2025-10-limiter-lexposition-electromagnetique/index.html"
 to = "/propositions/2025-10-limiter-lexposition-electromagnetique/"
 
 [[redirects]]
-from = "/commown/"
+from = "/commown/index.html"
 to = "/organisations/commown/"
 
 [[redirects]]
-from = "/2025-03-garantir-un-service-public-humain/"
+from = "/2025-03-garantir-un-service-public-humain/index.html"
 to = "/propositions/2025-03-garantir-un-service-public-humain/"
 
 [[redirects]]
-from = "/propositions/2025-2-assurer-une-gestion-municipale-degafamisee/"
+from = "/propositions/2025-2-assurer-une-gestion-municipale-degafamisee/index.html"
 to = "/propositions/2025-02-assurer-une-gestion-municipale-degafamisee/"
 
 [[redirects]]
-from = "/generation-lumiere/"
+from = "/generation-lumiere/index.html"
 to = "/organisations/generation-lumiere/"
 
 [[redirects]]
-from = "/propositions/2025-9-refuser-linstallation-de-data-centers/"
+from = "/propositions/2025-9-refuser-linstallation-de-data-centers/index.html"
 to = "/propositions/2025-09-refuser-linstallation-de-data-centers/"
 
 [[redirects]]
-from = "/propositions/2025-4-favoriser-les-emplois-pas-les-ia/"
+from = "/propositions/2025-4-favoriser-les-emplois-pas-les-ia/index.html"
 to = "/propositions/2025-04-favoriser-les-emplois-pas-les-ia/"
 
 [[redirects]]
-from = "/2025-08-lutter-contre-lairbnbisation-de-lhabitat/"
+from = "/2025-08-lutter-contre-lairbnbisation-de-lhabitat/index.html"
 to = "/propositions/2025-08-lutter-contre-lairbnbisation-de-lhabitat/"
 
 [[redirects]]
-from = "/propositions/2025-8-lutter-contre-lairbnbisation-de-lhabitat/"
+from = "/propositions/2025-8-lutter-contre-lairbnbisation-de-lhabitat/index.html"
 to = "/propositions/2025-08-lutter-contre-lairbnbisation-de-lhabitat/"
 
 [[redirects]]
-from = "/vers-une-desescalade-numerique-stop-5g-lyon/"
+from = "/vers-une-desescalade-numerique-stop-5g-lyon/index.html"
 to = "/organisations/vers-une-desescalade-numerique-stop-5g-lyon/"
 
 [[redirects]]
-from = "/propositions/2025-5-assurer-la-securite-sans-video-surveillance/"
+from = "/propositions/2025-5-assurer-la-securite-sans-video-surveillance/index.html"
 to = "/propositions/2025-05-assurer-la-securite-sans-video-surveillance/"
 
 [[redirects]]
-from = "/projets/"
+from = "/projets/index.html"
 to = "/propositions/"
 
 [[redirects]]
-from = "/technologos/"
+from = "/technologos/index.html"
 to = "/organisations/technologos/"
 
 [[redirects]]
-from = "/2025-01-securiser-les-services-essentiels-hors-reseau/"
+from = "/2025-01-securiser-les-services-essentiels-hors-reseau/index.html"
 to = "/propositions/2025-01-securiser-les-services-essentiels-hors-reseau/"
 
 [[redirects]]
-from = "/propositions/2025-6-bannir-les-ecrans-publicitaires-de-lespace-public/"
+from = "/propositions/2025-6-bannir-les-ecrans-publicitaires-de-lespace-public/index.html"
 to = "/propositions/2025-06-bannir-les-ecrans-publicitaires-de-lespace-public/"
 
 [[redirects]]
-from = "/telecoop/"
+from = "/telecoop/index.html"
 to = "/organisations/telecoop/"
 
 [[redirects]]
-from = "/2025-04-favoriser-les-emplois-pas-les-ia/"
+from = "/2025-04-favoriser-les-emplois-pas-les-ia/index.html"
 to = "/propositions/2025-04-favoriser-les-emplois-pas-les-ia/"
 
 [[redirects]]
-from = "/2025-05-assurer-la-securite-sans-video-surveillance/"
+from = "/2025-05-assurer-la-securite-sans-video-surveillance/index.html"
 to = "/propositions/2025-05-assurer-la-securite-sans-video-surveillance/"
 
 [[redirects]]
-from = "/2025-02-assurer-une-gestion-municipale-degafamisee/"
+from = "/2025-02-assurer-une-gestion-municipale-degafamisee/index.html"
 to = "/propositions/2025-02-assurer-une-gestion-municipale-degafamisee/"
 
 [[redirects]]
-from = "/halte-au-controle-numerique/"
+from = "/halte-au-controle-numerique/index.html"
 to = "/organisations/halte-au-controle-numerique/"
 
 [[redirects]]
-from = "/propositions/2025-7-favoriser-une-ecole-ouverte-et-creative/"
+from = "/propositions/2025-7-favoriser-une-ecole-ouverte-et-creative/index.html"
 to = "/propositions/2025-07-favoriser-une-ecole-ouverte-et-creative/"
 
 [[redirects]]
-from = "/2025-09-refuser-linstallation-de-data-centers/"
+from = "/2025-09-refuser-linstallation-de-data-centers/index.html"
 to = "/propositions/2025-09-refuser-linstallation-de-data-centers/"
 
 [[redirects]]
-from = "/propositions/2025-1-securiser-les-services-essentiels-hors-reseau/"
+from = "/propositions/2025-1-securiser-les-services-essentiels-hors-reseau/index.html"
 to = "/propositions/2025-01-securiser-les-services-essentiels-hors-reseau/"
 
 [[redirects]]
-from = "/point-de-mir/"
+from = "/point-de-mir/index.html"
 to = "/organisations/point-de-mir/"
 
